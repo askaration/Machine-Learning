@@ -36,7 +36,7 @@ To run the model:
    ```
 3. Execute the Jupyter Notebook:
    ```
-   jupyter notebook match_outcome_predictor.ipynb
+   jupyter notebook SoccerGameRandomForest.ipynb
    ```
 
 ## Results
